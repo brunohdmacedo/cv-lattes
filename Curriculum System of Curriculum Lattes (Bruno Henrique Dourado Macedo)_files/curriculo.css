@@ -1,0 +1,537 @@
+ .CurriculoTitulo {text-align: left; line-height:100%;
+margin-top:0; margin-bottom:0; font-family:Arial,Helvetica;}
+
+.CurriculoOrigemXML
+{text-align: left; line-height:100%; margin-top:7px; margin-bottom:0;
+font-family:Arial,Helvetica; font-size:8pt;}
+
+.CurriculoTituloNome
+{text-align:left; line-height:150%; margin-top:0; margin-bottom:0;
+font-family:Arial,Helvetica; font-weight:bold; font-size:12pt;}
+
+.IndiceTabela
+{/*BORDER-RIGHT: #00529b 1px solid; */PADDING-RIGHT: 15px; /*BORDER-TOP: #00529b 0px solid;*/ 
+DISPLAY: block; PADDING-LEFT: 15px;  PADDING-BOTTOM: 15px; 
+/*BORDER-LEFT: #00529b 1px solid;*/ PADDING-TOP: 15px;/* BORDER-BOTTOM: #00529b 0px solid*/
+width:100%
+}
+
+
+.IndiceTabelaLinks
+{border:0; text-align:left; cellpadding:0; cols:6; width:80%;PADDING-RIGHT: 5px; 
+PADDING-LEFT: 5px; PADDING-BOTTOM: 10px;}
+
+.IndiceLinha
+{FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left}
+
+.IndiceCelula
+{font-family:Arial,Helvetica; font-align:left; font-size:8pt;nowarp;width: 150px}
+
+.GrupoTitulo {font-align:left; font-family:Arial,Helvetica; font-weight:bold;
+font-size:10pt;/*BORDER-RIGHT: #00529b 0px solid;*/ PADDING-RIGHT: 15px; 
+/*BORDER-TOP: #00529b 0px solid;*/ DISPLAY: block; PADDING-LEFT: 15px; 
+ PADDING-BOTTOM: 15px; /*BORDER-LEFT: #00529b 1px solid; */
+PADDING-TOP: 15px; /*BORDER-BOTTOM: #00529b 0px solid;*/}
+
+.TituloBolsa {font-align:left; font-family:Arial,Helvetiva;
+font-weight:bold; font-size:8pt;}
+
+.IndicProdTabela
+{/*BORDER-RIGHT: #00529b 1px solid;*/ PADDING-RIGHT: 15px; /*BORDER-TOP: #00529b 0px solid; */
+DISPLAY: block; PADDING-LEFT: 15px; 
+PADDING-BOTTOM: 0px; /* BORDER-LEFT: #00529b 1px solid; */
+PADDING-TOP: 0px; /*BORDER-BOTTOM: #00529b 0px solid*/}
+
+.IndicProdTabela  IMG {
+BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+
+.IndicProdTabelaLinha {valign:top; align:left;
+background-color:transparent;}
+
+.IndicProdTabelaCelula95t {width:720px;
+font-family:Arial,Helvetica; text-align:left; font-size:10pt;
+background-color:#cccccc;
+PADDING-BOTTOM: 0px;PADDING-LEFT: 0px;PADDING-TOP: 0px;PADDING-RIGHT: 0px;
+BORDER-LEFT: transparent 10px solid;}
+
+.IndicProdTabelaCelula5t {width:39px;
+font-family:Arial,Helvetica; text-align:right; font-size:10pt;
+background-color:#cccccc;
+PADDING-BOTTOM: 0px;PADDING-LEFT: 0px;PADDING-TOP: 0px;PADDING-RIGHT: 0px;
+BORDER-RIGHT: transparent 10px solid;}
+
+.OutraInfRelvanteCelula {width:770px;
+font-family:Arial,Helvetica; font-size:10pt; text-align:left;
+background-color:transparent;COLOR: #666666;}
+
+.IndicProdTabelaCelula95
+{width:741px;
+font-family:Arial,Helvetica; text-align:left; font-size:8pt;
+background-color:#d8e1ed;
+PADDING-BOTTOM: 0px;PADDING-LEFT: 0px;PADDING-TOP: 0px;PADDING-RIGHT: 0px;
+BORDER-LEFT: transparent 10px solid;}
+
+.IndicProdTabelaCelula5 {width:39px;
+font-family:Arial,Helvetica; text-align:right; font-size:8pt;
+background-color:#d8e1ed;
+PADDING-BOTTOM: 0px;PADDING-LEFT: 0px;PADDING-TOP: 0px;PADDING-RIGHT: 0px;
+BORDER-RIGHT: transparent 10px solid;}
+
+.IndicProdTabelaCelulaTot95 {width:741px;FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left}
+
+.IndicProdTabelaCelulaTot5 {width:39px; font-family:Arial,Helvetica; text-align:right;
+font-size:10pt;} 
+
+.IndiceVoltar {display:block;width:16px;height:16px;				
+			BACKGROUND: url(../images/curriculo/voltar.gif);float: right;
+			}
+
+.LinhaRodape {font-family:Arial,Helvetica; font-size:8pt; color:#000099;
+background-color:transparent;} 
+
+.DadGerTabelaCelula26
+{FONT-WEIGHT: bold; FONT-SIZE: 12px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: right}
+
+.DadGerTabelaCelula74
+{FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left}
+
+.DadGerTabelaCelula10 
+{width:146px;BACKGROUND-POSITION: right top; FONT-WEIGHT: bold; FONT-SIZE: 12px; 
+VERTICAL-ALIGN: top; COLOR: #006699; WHITE-SPACE: nowrap; TEXT-ALIGN: right}
+
+.DadGerTabelaCelula10Gray
+{BACKGROUND-POSITION: right top; FONT-WEIGHT: bold; FONT-SIZE: 12px; VERTICAL-ALIGN: top; COLOR: #666666; WHITE-SPACE: nowrap; TEXT-ALIGN: right}
+
+.DadGerTabelaCelula90
+{FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left}
+
+.AtuaProfDisciplina 
+{FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left}
+
+.AtuaProfTabelaLinha {text-align:right;background:transparent ;width:100%}
+
+.AtuaProfTabelaCelula95 {
+	font-family:Arial,Helvetica; text-align:left;
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #FFF; 
+        BACKGROUND-COLOR: #006699;
+	PADDING-BOTTOM: 1px; 
+	PADDING-TOP: 1px; 
+	PADDING-RIGHT: 5px;
+        width:688px;
+}
+
+.AtuaProfTabelaCelula13T { 
+      FONT-WEIGHT: bold; FONT-SIZE: 12px; VERTICAL-ALIGN: top; 
+      COLOR: #666666; TEXT-ALIGN: right;width:130px} 
+
+/* SubTitulo1 */
+.AtuaProfTabelaCelula74T{ 
+FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left
+}
+
+
+/* SubTitulo2 */ 
+.AtuaProfTabelaCelula13TC1
+{font-family:Arial,Helvetica; text-align:left; font-style:italic;
+background-color:transparent;
+FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; } 
+
+/* Titulo do Conteudo em azul italico*/
+.AtuaProfTabelaCelulaTCont {FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left} 
+
+/*Titulo do conteudo*/ 
+.AtuaProfTabelaCelulaDescr74 {
+FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left} 
+
+/* Titulo do Conteudo em azul italico*/
+.LinhaDePesquisa5 
+{BACKGROUND-POSITION: right top; FONT-WEIGHT: bold; FONT-SIZE: 12px; VERTICAL-ALIGN: top; COLOR: #006699; WHITE-SPACE: nowrap; TEXT-ALIGN: right
+}
+
+.LinhaDePesquisa95
+{FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left}
+
+.LinhaDePesquisa95B 
+{FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left}
+
+/*.AtuaProfTabelaCelula13D {width:146px;
+font-family:Arial,Helvetica; text-align:right; font-size:8pt;
+background-color:transparent;}*/
+.AtuaProfTabelaCelula13D{
+       BACKGROUND-POSITION: right top; FONT-WEIGHT: bold; FONT-SIZE: 12px; 
+       VERTICAL-ALIGN: top; COLOR: #006699; WHITE-SPACE: nowrap; TEXT-ALIGN: right;}
+
+/* Periodo  
+.AtuaProfTabelaCelula13 {width:146px;
+font-family:Arial,Helvetica; text-align:right; font-size:10pt;
+background-color:transparent;COLOR:0080GG;} */
+.AtuaProfTabelaCelula13 {BACKGROUND-POSITION: right top; FONT-WEIGHT: bold; FONT-SIZE: 12px; VERTICAL-ALIGN: top; COLOR: #006699; WHITE-SPACE: nowrap; TEXT-ALIGN: right}
+
+/* Periodo (Titulo) */ 
+.AtuaProfTabelaCelula74
+{width:624px; font-family:Arial,Helvetica;
+background-color:transparent;
+FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left} 
+
+/* Conteudo */ 
+.AreadeAtuacaoCelula5
+{BACKGROUND-POSITION: right top; FONT-WEIGHT: bold; FONT-SIZE: 12px; VERTICAL-ALIGN: top; COLOR: #006699; WHITE-SPACE: nowrap; TEXT-ALIGN: right}
+
+.AreadeAtuacaoCelula95 {width:741px; font-family:Arial,Helvetica; text-align:left;
+font-size:10pt; background-color:transparent;}
+
+.ProdBibliTitCelula90 {width:90%;
+font-family:Arial,Helvetica; text-align:left; font-size:10pt;
+background-color:transparent;}
+
+.ProdBibliCelula10 {width:39px;
+font-family:Arial,Helvetica; text-align:right; font-size:10pt;COLOR: #006699;
+FONT-WEIGHT: bold;}
+
+.ProdBibliCelula90
+{width:87%; font-family:Arial,Helvetica; text-align:left; font-size:10pt;
+background-color:transparent;}
+
+.ProdBibliCelulaCont {font-family:Arial,Helvetica;
+text-align:left; font-size:8pt;}
+
+.TextoRelev {color:blue;}
+
+.FormAcademicaCelulaCont10 {font-family:Arial,Helvetica; text-align:left;
+font-size:8pt;} 
+BODY {
+	PADDING-RIGHT: 6px; BACKGROUND-POSITION: left top; PADDING-LEFT: 6px; 
+	BACKGROUND: url(../images/curriculo/marcadagualattes.gif) 95% 140px  no-repeat; PADDING-BOTTOM: 0px; PADDING-TOP: 10px; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+
+HTML {BACKGROUND: url(../images/curriculo/marcadagualattes.gif) 95% 100% no-repeat;} 
+
+TABLE,TR,TD {
+   PADDING-RIGHT: 5px;  PADDING-LEFT: 5px;
+   PADDING-BOTTOM: 5px; PADDING-TOP: 5px;
+}
+.agrupadorsub {
+BACKGROUND-POSITION: right top; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #006699; FONT-FAMILY: Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap
+}
+.textoProducao
+{FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left}
+.borda {
+     BORDER-RIGHT: #00529b 1px solid; BACKGROUND-POSITION: right bottom; BORDER-TOP: #00529b 1px solid; BACKGROUND-IMAGE: url(../images/curriculo/fundo2.jpg); BORDER-LEFT: #00529b 1px solid; BORDER-BOTTOM: #00529b 1px solid; BACKGROUND-REPEAT: no-repeat
+}
+.titulo {
+FONT-SIZE: 18px; COLOR: #666666;VERTICAL-ALIGN: top;
+}
+.subtitulo {
+FONT-SIZE: 14px; COLOR: #666666
+}
+.texto {
+FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: left
+}
+.link {
+FONT-SIZE: 11px; COLOR: #000099
+}
+.linkCopy {
+FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #006699
+}
+.fundo {
+PADDING-RIGHT: 0px; BACKGROUND-POSITION: left top; PADDING-LEFT: 15px; BACKGROUND-IMAGE: url(../images/curriculo/marcadagualattes.gif); PADDING-BOTTOM: 0px; PADDING-TOP: 10px; BACKGROUND-REPEAT: no-repeat
+}
+.campos {
+FONT-WEIGHT: bold; FONT-SIZE: 12px; VERTICAL-ALIGN: top; COLOR: #666666; TEXT-ALIGN: right
+}
+.ano {
+BACKGROUND-POSITION: right top; FONT-WEIGHT: bold; FONT-SIZE: 12px; VERTICAL-ALIGN: top; COLOR: #006699; WHITE-SPACE: nowrap; TEXT-ALIGN: right
+}
+.agrupador {
+PADDING-LEFT: 20px; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; BACKGROUND-COLOR: #006699
+}
+.detalhe {
+FONT-SIZE: 10px; COLOR: #666666
+}
+.outrasbases  a{
+   FONT-SIZE: 10px; color: #006699;				
+  TEXT-ALIGN: right; TEXT-DECORATION: underline;padding-bottom:4px;
+}
+.outrasbases img {vertical-align:middle}
+
+.link-drop-out {
+FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #00659c; FONT-FAMILY: arial
+}
+.link-drop-sub {
+FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: rgb(255,153,0); FONT-FAMILY: arial
+}
+A#link-drop-inner {
+BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: rgb(255,255,255) 1px solid; DISPLAY: block; PADDING-LEFT: 3px; BACKGROUND: rgb(255,255,255); PADDING-BOTTOM: 3px; MARGIN: 0px; FONT: 11px/12px arial; BORDER-LEFT: #cccccc 1px solid; COLOR: rgb(255,153,0); PADDING-TOP: 3px; BORDER-BOTTOM: #cccccc 1px solid; TEXT-DECORATION: none
+}
+A#link-drop-inner:hover {
+BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BACKGROUND: #cccccc; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; TEXT-DECORATION: none
+}
+#link-drop IMG {
+BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+#link-drop UL {
+PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#link-drop LI {
+Z-INDEX:50; FLOAT: left; POSITION: relative
+}
+#link-drop UL UL LI {
+Z-INDEX: 10; WIDTH: 100%
+}
+#link-drop UL UL {
+LEFT: 0%; WIDTH: 100%; POSITION: absolute; TOP: 18px
+}
+#link-drop UL UL UL {
+LEFT: 100%; WIDTH: 100%; POSITION: absolute; TOP: 0px;
+}
+#link-drop UL UL {
+DISPLAY: none
+}
+#link-drop UL UL UL LI {
+DISPLAY: none
+}
+#link-drop UL UL UL {
+WIDTH: 250px
+}
+#link-drop UL UL UL.menor {
+WIDTH: 80px
+}
+#link-drop UL LI:hover UL {
+DISPLAY: block
+}
+#link-drop UL UL LI:hover UL LI {
+DISPLAY: block
+}
+B.black {
+COLOR: #000
+}
+A.aba {
+DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; MARGIN-RIGHT: 5px; TEXT-DECORATION: none;
+}
+A.aba:visited {
+DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; MARGIN-RIGHT: 5px; TEXT-DECORATION: none
+}
+A.aba:hover {
+CURSOR: default
+}
+.b1 {
+DISPLAY: block; FONT-SIZE: 1px; OVERFLOW: hidden
+}
+.b2 {
+DISPLAY: block; FONT-SIZE: 1px; OVERFLOW: hidden
+}
+.b1 {
+HEIGHT: 1px
+}
+.b2 {
+HEIGHT: 1px
+}
+.b1 {
+BACKGROUND: #00529b; MARGIN: 0px 3px
+}
+.b2 {
+BORDER-RIGHT: #00529b 2px solid; BACKGROUND: url(../images/curriculo/background.gif); 
+MARGIN: 0px 1px; BORDER-LEFT: #00529b 2px solid;BACKGROUND-POSITION:left;
+}
+/*.conteudo {
+BORDER-RIGHT: #00529b 1px solid; PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 5px; 
+BACKGROUND: url(../images/curriculo/background.gif); PADDING-BOTTOM: 2px; MARGIN: 0px; FONT: bold 11px/14px arial; 
+BORDER-LEFT: #00529b 1px solid; COLOR: #00529b; PADDING-TOP: 2px; BORDER-BOTTOM: #00529b 0px solid; 
+TEXT-ALIGN: center
+}*/
+.aba IMG {
+BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; MARGIN-RIGHT: 5px; BORDER-BOTTOM: 0px
+}
+#caixa {
+CLEAR: both; WIDTH: 746px
+}
+#caixa P {
+PADDING-BOTTOM: 0.5em; MARGIN: 0px 10px; PADDING-TOP: 0.5em; LETTER-SPACING: 1px; TEXT-ALIGN: justify
+}
+#minimizar {
+PADDING-RIGHT: 4px; MARGIN-TOP: 1px; PADDING-LEFT: 4px; FLOAT: right; PADDING-BOTTOM: 2px; CURSOR: pointer; PADDING-TOP: 2px
+}
+#titulo {
+BORDER-RIGHT: #00529b 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: 0px; PADDING-LEFT: 4px; BACKGROUND: transparent; PADDING-BOTTOM: 4px; BORDER-LEFT: #00529b 1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: #00529b 0px solid
+}
+.area-texto {
+BORDER-RIGHT: #00529b 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #00529b 0px solid; DISPLAY: block; PADDING-LEFT: 15px; BACKGROUND: url(fundo2.jpg) no-repeat 100% 100%; PADDING-BOTTOM: 15px; BORDER-LEFT: #00529b 1px solid; PADDING-TOP: 15px; BORDER-BOTTOM: #00529b 0px solid
+}
+.area-texto IMG {
+BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.top {
+DISPLAY: block; FONT-SIZE: 1px; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.bottom {
+DISPLAY: block; FONT-SIZE: 1px; BACKGROUND: none transparent scroll repeat 0% 0%;
+BORDER-BOTTOM: #00529b 1px solid;
+}
+.b-um {
+DISPLAY: block; OVERFLOW: hidden
+}
+.b-dois {
+DISPLAY: block; OVERFLOW: hidden
+}
+.b-tres {
+DISPLAY: block; OVERFLOW: hidden
+}
+.b-quatro {
+DISPLAY: block; OVERFLOW: hidden
+}
+.b-um {
+HEIGHT: 1px
+}
+.b-dois {
+HEIGHT: 1px
+}
+.b-tres {
+HEIGHT: 1px
+}
+.b-dois {
+BORDER-RIGHT: #00529b 1px solid; BACKGROUND: transparent; BORDER-LEFT: #00529b 1px solid
+}
+.b-tres {
+BORDER-RIGHT: #00529b 1px solid; BACKGROUND: transparent; BORDER-LEFT: #00529b 1px solid
+}
+.b-quatro {
+BORDER-RIGHT: #00529b 1px solid; BACKGROUND: transparent; BORDER-LEFT: #00529b 1px solid
+}
+.b-um {
+BACKGROUND: #00529b; MARGIN: 0px 5px 0px 0px
+}
+.b-dois {
+BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 3px 0px 0px; BORDER-RIGHT-WIDTH: 2px
+}
+.b-tres {
+MARGIN: 0px 2px 0px 0px
+}
+.b-quatro {
+MARGIN: 0px 1px 0px 0px; HEIGHT: 2px
+}
+
+a.link2    {width:183px; display:block; float:left;
+		PADDING-BOTTOM: 5px;PADDING-LEFT: 4px;
+	     PADDING-TOP: 5px;PADDING-RIGHT: 4px;
+	     FONT-SIZE: 11px; color: #006699;
+	     font-weight:bold}
+
+.containerSmall {width:746px;clear:both;height:0px; }
+
+.linha {/*border:1px solid #00529b; border-top:0; */
+BACKGROUND-IMAGE: url(../images/curriculo/fundo2.jpg);
+BACKGROUND-REPEAT: no-repeat ;
+background-position: right;height:40px;margin:0px;
+}
+.linha img {border:0; PADDING-TOP: 10px;PADDING-RIGHT: 15px;float: right; margin-right:0px;}
+
+
+.labelInfoCitaco{
+            FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666;
+            text-align:left;padding:0;FONT-WEIGHT: bold}
+.valorInfoCitaco{
+            FONT-SIZE: 11px; VERTICAL-ALIGN: top; COLOR: #666666;
+            text-align:left;padding:0}
+            
+.linkOutrasBasesTitulo {font-weight: bold; FONT-SIZE: 11px; COLOR: #666666}
+
+.linkHistorico {float:left;position:relative;top:-2px;left:-275px}
+
+.carimbo {float:left;position:relative;top:-7px;left:45px}
+
+.citacoesDOI {float:right;position:relative;top:-0px;padding:0}
+
+
+/* menu superior */
+
+.menu {height:auto; list-style:none; padding:0; text-align:left; margin:0 auto; background:url(../images/curriculo/backgroundmenu.gif); 
+       position:absolute; left:0; top:0; width:100%; border:1px solid #aaa; z-index:888 }
+.menu li {display:block; float:left; margin:0px; padding-left:2px;}
+.menu a {color:#00529B; text-decoration:none; font:bold 11px arial; display:block; float:left; height:16px; line-height:16px; margin:2px 0; padding:0 5px; outline:0}
+
+.menu li .submenu {display:none}
+.menu li .submenu_2 {display:none}
+
+.menu li:hover {position:relative; background:url(../images/curriculo/left.png) no-repeat 0% 60%;}
+.menu li:hover > a {background:url(../images/curriculo/right.png) no-repeat 100% 0%; color:#fff}
+
+.menu li.selecionado {position:relative; background:url(../images/curriculo/left.png) no-repeat 0% 60%;}
+.menu li.selecionado > a {background:url(../images/curriculo/right.png) no-repeat 100% 0%;}
+
+.menu li:hover .submenu {display:block; position:absolute; top:19px; left:0;}
+.menu ul li:hover .submenu_2 {display:block; position:absolute; top:10px; left:50%;}
+
+.menu li .submenu a {color:#555}
+
+.menu li.idioma {float:right; padding:0}
+.menu li.idioma a {padding:0 2px;}
+.menu li.idioma:hover, .menu li.idioma:hover a {background:transparent}
+.menu li a img {border:0; margin:1px 0}
+
+.submenu {height:auto; width:155px; border:2px outset #ccc; background:#F5FAFC; padding:1px 8px 2px 3px; list-style:none; margin:0; z-index:999}
+.submenu_2 {height:auto; width:180px; border:2px outset #ccc; background:#F5FAFC; padding:1px 8px 2px 3px; list-style:none; margin:0; z-index:999}
+.submenu li, .submenu_2 li{display:block; float:none; margin:0; padding:0; cursor:pointer}
+.submenu a, .submenu_2 a {display:block; text-decoration:none; font:normal 11px arial; color:#666; width:100%; padding:1px 0 1px 3px; border:1px solid transparent; outline:0; float:none; margin:0; height:auto}
+.submenu a:hover, .submenu_2 a:hover {border:1px solid #B9EAFF; background:url(../images/curriculo/subitem-hover.jpg) repeat-x}
+.submenu li:hover, .submenu_2 li:hover {background:transparent}
+.submenu li:hover > a, .submenu_2 li:hover > a {border:1px solid #B9EAFF; background:url(../images/curriculo/subitem-hover.jpg) repeat-x}
+.submenu .separador, .submenu_2 .separador {border-bottom:1px solid #000;}
+
+@media print {
+   .menu {display:none}
+   .linha img {display:none}
+/*   .container {display:none }*/
+   /*.idioma{display:none}*/
+}
+/*@media screen {*/
+  .container {width:0px;clear:both;height:0px; }
+  /*.idioma {position:fixed; right:10px; top:10px;
+                    font-family:Verdana,Arial,Helvetica; font-weight:bold; font-size:8pt;
+                    border:2px groove #fff; padding:2px 5px; background:#B9CEE3;cursor:pointer;z-index:15}*/
+/*}*/
+
+/* holder */
+
+.holder {width:755px; border:1px solid #bbb; margin:0px 0; text-align:left;background:transparent}
+.holder .conteudo {padding:0px 0px;padding-top:5px;padding-left:13px}
+.holder em {display:block; padding:0 0px 2px 0px; border-bottom:2px solid #D1E0F5; 
+    font:bold 11px arial; color:#3764A0; margin-bottom:5px;margin-right:5px}
+
+.holder ul {list-style:none; padding:0; margin:0;}
+.holder ul li {border-bottom:1px dashed #aaa; font:normal 11px arial; padding-left:5px; margin:2px 0;}
+
+.holder label {display:block; width:10%; font:bold 11px arial}
+
+
+
+.menu li.info_complementar {float:right; padding:0}
+.menu li.info_complementar a {padding:0 1px;}
+.menu li.info_complementar:hover, .menu li.idioma:hover a {background:transparent}
+.menu li.info_complementar img {border:0; margin:1px 0;width:16px;height:16px;z-index:10}
+
+
+table.citacoes {font:normal 11px arial; position:relative; width:600px; margin:0;}
+table.citacoes img {float:right; cursor:pointer}
+table.citacoes th {font:bold 11px arial; color:#069; line-height:12px; border-bottom:2px solid #D1E0F5; text-align:left; padding:1px 1px}
+table.citacoes td {padding:0 5px}
+table.citacoes b {margin-right:3px}
+table.citacoes tfoot td {font:normal 10px arial; text-align:center; padding-top:1px}
+
+a.coautor:link {color: #3366CC;text-decoration: none; }
+a.coautor:visited {color: #3300CC ;text-decoration: none;}
+a.coautor:hover {text-decoration: underline;
+				color: #3366AA;
+				}
+a.coautor:active {text-decoration: none}
+
+
+.cabecalho-curriculo {padding:10px;width:780px}
+.cabecalho-curriculo-right {float:right; width:160px; border-left:2px solid #CFDBEB; padding:10px 0}
+.cabecalho-curriculo-left {margin-right:165px;}
+
+.cabecalho-curriculo-right div.item {margin-left:10px; text-align:center; font:normal 11px arial; color:#666; margin-bottom:10px}
+.cabecalho-curriculo-right div.item img {display:block; margin:0 auto -5px auto; border:0;width:30px;}
+
+

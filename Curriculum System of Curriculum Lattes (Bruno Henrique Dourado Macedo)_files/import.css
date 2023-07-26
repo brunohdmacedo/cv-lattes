@@ -1,0 +1,15 @@
+/*Import css*/
+@import url(reset.css);
+@import url(layout.css);
+@import url(tags.css);
+@import url(helper.css);
+@import url(form.css);
+@import url(tooltip-manager.css);
+@import url(tooltip-position.css);
+@import url(recaptcha.css);
+@import url(slide-label.css);
+@import url(theme.css);
+@import url(jqplot.css);
+@import url(jquery.jqplot.min.css);
+@import url(alto_contraste_busca_textual.css);
+

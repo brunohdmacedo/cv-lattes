@@ -1,0 +1,4 @@
+div.registroPatente {background:url(../img/loader/imgloading.gif) no-repeat 50% 50%; width:16px; height:16px; display:inline-block}
+div.linkPatenteINPI {display:inline; font:normal 10px arial; margin-left:0px;cursor:pointer}
+
+* html div.registroPatente {display:inline}

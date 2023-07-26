@@ -1,0 +1,10 @@
+.overlay {position:absolute; top:0; left:0; background:url(../img/loader/overlay_bg.jpg); width:100%; height:100%; text-align:center}
+
+.loading_div {width:auto; border:1px solid #aaa; width:250px; background:url(../img/loader/loading_bg.jpg) repeat-x #F1F1F1; margin:0 auto; text-align:center; position:absolute;}
+.loading_div .logo {margin:8px 10px; float:left}
+.loading_div .barra_progresso {height:14px; width:200px; background:url(../img/loader/progress_bar.jpg) no-repeat 0% 0%; margin:15px 25px 0 25px; overflow:hidden; margin:25px}
+.loading_div .barra {background:url(../img/loader/progress_bg.jpg); height:10px; margin:2px; width:0}
+.loading_div .loadingText {color:#00529b; font:bold 11px verdana; margin:20px 0;}
+.loading_div .loadingGif {margin-bottom:10px}
+
+.porcentagem {font:bold 12px verdana; float:left;}
